@@ -1,0 +1,2 @@
+# myfirstmvn
+用来测试jenkins自动化集成maven编译打包
