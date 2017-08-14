@@ -41,7 +41,6 @@
           <target>7</target>
         </configuration>
       </plugin>
-</plugin>
     </plugins>
   </build>
 </project>
